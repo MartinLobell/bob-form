@@ -17,6 +17,15 @@
     padding-bottom: 20px;
 }
 
+.footer a {
+    color: #fff;
+}
+
+.footer a:hover {
+    color: #F7B500;
+    transition: 0.5s;
+}
+
 .narrowFooter {
     display: none;
 }

@@ -35,7 +35,9 @@ p {
 }
 
 .fa:hover {
-    opacity: 0.7;
+    color: #F7B500;
+    background-color: #000;
+    transition: 0.5s;
 }
 
 .fa-instagram {
