@@ -1,0 +1,17 @@
+
+
+body {
+    background-color: #000;
+}
+
+.narrow {
+    width: calc(100% - 200px);
+    float: right;
+}
+
+@media only screen and (max-width: 1095px) {
+    .narrow {
+        width: 100%;
+        float: none;
+    }
+}
