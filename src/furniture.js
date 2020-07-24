@@ -2,37 +2,37 @@ export const furniture = [
     {
         id: 1,
         name: 'Hylla',
-        description: 'Hög, smal',
+        description: 'HÃ¶g, smal',
         fullDescription: 'Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla'
     },
     {
         id: 2,
         name: 'Hylla',
-        description: 'Hög, bred',
+        description: 'HÃ¶g, bred',
         fullDescription: 'Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla'
     },
     {
         id: 3,
         name: 'Hylla',
-        description: 'Låg, smal',
+        description: 'LÃ¥g, smal',
         fullDescription: 'Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla'
     },
     {
         id: 4,
         name: 'Hylla',
-        description: 'Låg, bred',
+        description: 'LÃ¥g, bred',
         fullDescription: 'Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla'
     },
     {
         id: 5,
         name: 'Hylla',
-        description: 'Vägg, smal',
+        description: 'VÃ¤gg, smal',
         fullDescription: 'Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla'
     },
     {
         id: 6,
         name: 'Hylla',
-        description: 'Vägg, bred',
+        description: 'VÃ¤gg, bred',
         fullDescription: 'Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla'
     },
     {

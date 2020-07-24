@@ -11,7 +11,7 @@ class Product extends Component {
                     <h1>{this.props.name}</h1>
                     <h2>{this.props.shortText}</h2>
                     <p>{this.props.longText}</p>  
-                    <button className="f6 link dim ba bw2 ph3 pv2 mb2 dib black" onClick={this.props.closePopup}><strong>Gå tillbaka</strong></button>
+                    <button className="f6 link dim ba bw2 ph3 pv2 mb2 dib black" onClick={this.props.closePopup}><strong>GÃ¥ tillbaka</strong></button>
                 </div>
             </div>
         );
