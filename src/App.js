@@ -24,7 +24,6 @@ class App extends Component {
             showProduct: !this.state.showProduct,
             chosen: event.target.className
         });
-        console.log(event.target.className); 
     }
 
     render() {
