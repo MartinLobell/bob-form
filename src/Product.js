@@ -7,7 +7,7 @@ class Product extends Component {
         return (
             <div className='product'>
                 <div className='product\_inner tc dib br3 pa3 ma2 bw2' style={{ backgroundColor: '#FFE064' }}>
-                    <img src={`./${this.props.id}.jpg`} alt="Bild av produkt" style={{ maxWidth: 400, height: 'auto', border: 'solid #fff 20px', borderRadius: 800 / 2 }}/>
+                    <img src={`./${this.props.id}.jpg`} alt="Bild av produkt"/>
                     <h1>{this.props.name}</h1>
                     <h2>{this.props.shortText}</h2>
                     <p>{this.props.longText}</p>  
