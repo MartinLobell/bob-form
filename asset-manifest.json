@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bob-form/static/css/main.1ca137b6.chunk.css",
+    "main.js": "/bob-form/static/js/main.74caf7d5.chunk.js",
+    "main.js.map": "/bob-form/static/js/main.74caf7d5.chunk.js.map",
+    "runtime-main.js": "/bob-form/static/js/runtime-main.961033c9.js",
+    "runtime-main.js.map": "/bob-form/static/js/runtime-main.961033c9.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/bob-form/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b9270464.chunk.js": "/bob-form/static/js/2.b9270464.chunk.js",
+    "static/js/2.b9270464.chunk.js.map": "/bob-form/static/js/2.b9270464.chunk.js.map",
+    "index.html": "/bob-form/index.html",
+    "precache-manifest.b3d4c85c5c158ec8abaa2a04d592f2f1.js": "/bob-form/precache-manifest.b3d4c85c5c158ec8abaa2a04d592f2f1.js",
+    "service-worker.js": "/bob-form/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/bob-form/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.1ca137b6.chunk.css.map": "/bob-form/static/css/main.1ca137b6.chunk.css.map",
+    "static/js/2.b9270464.chunk.js.LICENSE.txt": "/bob-form/static/js/2.b9270464.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.961033c9.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b9270464.chunk.js",
+    "static/css/main.1ca137b6.chunk.css",
+    "static/js/main.74caf7d5.chunk.js"
+  ]
+}
