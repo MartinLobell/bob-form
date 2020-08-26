@@ -41,4 +41,8 @@
     .narrowFooter {
         display: block;
     }
+
+    .socialMediaBtn {
+        padding-bottom: 25px;
+    }
 }

@@ -34,7 +34,6 @@ class App extends Component {
                 <div className="tc bg-gold narrow mainPage">
                     <CardList furniture={this.state.furniture} clickChange={this.onClickChange} />
                 </div>
-
                 {this.state.showProduct ?
                     <Product
                         id={this.state.chosen}
@@ -44,8 +43,7 @@ class App extends Component {
                         closePopup={this.onClickChange.bind(this)}
                     /> : null
                 }
-
-                <Footer />
+                <Footer/>
             </div>
         )
     }
