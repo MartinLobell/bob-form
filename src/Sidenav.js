@@ -4,7 +4,7 @@ import './Sidenav.css';
 function Sidenav() {
     return (
         <div className="sidenav tc">
-            <img src="./logo.png" className="tc" alt="BoBLogo"/>
+            <img src={require('./images/logo.png')} className="tc" alt="BoBLogo"/>
             <br />
             <div className="contactInfo">
                 <h3>Want to place <br/> an order?</h3>
